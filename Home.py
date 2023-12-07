@@ -7,7 +7,7 @@ st.title("GTP Home")
 st.markdown(
     """
 # App lists
-- [ ] [DocumentGPT](/DocumentGPT)
+- [x] [DocumentGPT](/DocumentGPT)
 - [ ] [PrivateGPT](/PrivateGPT)
 """
 )
