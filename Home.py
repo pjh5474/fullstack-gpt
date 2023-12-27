@@ -8,6 +8,5 @@ st.markdown(
     """
 # App lists
 - [x] [DocumentGPT](/DocumentGPT)
-- [ ] [PrivateGPT](/PrivateGPT)
 """
 )

@@ -1,0 +1,674 @@
+
+The type of Choice-Cosmetics' cosmetics Dr.JSK 라제니쏭 로즈워터 솔루션 is Skin.
+The main effects of Dr.JSK 라제니쏭 로즈워터 솔루션 are Moisture, Pores, Keratin.
+The description of Dr.JSK 라제니쏭 로즈워터 솔루션 is '비타민과 항산화성분이 풍부한 장미꽃수가 함유되어 피부에 청량감을 부여하고 피부결을 관리하는 스킨 부스터입니다. 피부 수분손실 방지 및 수렴 기능이 뛰어납니다.'
+The price of Dr.JSK 라제니쏭 로즈워터 솔루션 is 45000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 라제니쏭 워터 드롭 에멀젼 is Lotion.
+The main effects of Dr.JSK 라제니쏭 워터 드롭 에멀젼 are Moisture, Sebum, Wrinkles.
+The description of Dr.JSK 라제니쏭 워터 드롭 에멀젼 is '고농축 수분 앰플을 에멀젼화하여 피부 속부터 보습력을 높여주는 제품으로, 워터 앱솔브 시스템이 일반적인 에멀젼보다 흡수율을 높이고 피부 속 수분을 유지시켜줍니다.'
+The price of Dr.JSK 라제니쏭 워터 드롭 에멀젼 is 68000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 라제니쏭 멜라 안티 세럼 is Serum.
+The main effects of Dr.JSK 라제니쏭 멜라 안티 세럼 are Pigmentation.
+The description of Dr.JSK 라제니쏭 멜라 안티 세럼 is '비타민C 수용성 유도체가 멜라닌 생성을 억제하여 기미, 잡티를 완화시켜주는 멜라닌 케어 세럼입니다. 피부의 지질장벽을 쉽게 통과해 빠른 톤업효과를 볼 수 있습니다.'
+The price of Dr.JSK 라제니쏭 멜라 안티 세럼 is 120000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 라제니쏭 멜라노 비타 셀 크림 is Cream.
+The main effects of Dr.JSK 라제니쏭 멜라노 비타 셀 크림 are Wrinkles.
+The description of Dr.JSK 라제니쏭 멜라노 비타 셀 크림 is '근육의 신경세포에 직접 작용하여 바르는 보톡스라 불리는 아세틸헥사펩타이드-8 성분 함유로 피부 속 콜라겐, 엘라스틴 보호 효과가 탁월한 비타민 피부장벽크림입니다.'
+The price of Dr.JSK 라제니쏭 멜라노 비타 셀 크림 is 150000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 라제니쏭 에이씨 퓨어 리페어 스킨 is Skin.
+The main effects of Dr.JSK 라제니쏭 에이씨 퓨어 리페어 스킨 are Moisture.
+The description of Dr.JSK 라제니쏭 에이씨 퓨어 리페어 스킨 is 'Dr.JSK의 자체 특허 성분이 염증 인자 생성을 억제시켜 빠른 피부진정효과 및 흔적 완화에 도움을 줍니다. 피부 장벽이 무너져 예민한 민감성 피부 등에 사용하면 좋습니다.'
+The price of Dr.JSK 라제니쏭 에이씨 퓨어 리페어 스킨 is 33000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 라플러스 인텐시브 알파 앰플 is Ampoule.
+The main effects of Dr.JSK 라플러스 인텐시브 알파 앰플 are Wrinkles.
+The description of Dr.JSK 라플러스 인텐시브 알파 앰플 is '피부장벽 및 보습력 강화에 도움을 주는 티옥틱애씨드, EGF, 하이드롤라이즈드콜라겐을 함유한 고기능성 앰플입니다. 피부 밸런스 조절 및 속건조 완화에도 효과적입니다.'
+The price of Dr.JSK 라플러스 인텐시브 알파 앰플 is 130000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 라플러스 광채시카크림 is Cream.
+The main effects of Dr.JSK 라플러스 광채시카크림 are Moisture, Sebum.
+The description of Dr.JSK 라플러스 광채시카크림 is '인체 피지성분과 유사하고 불포화 지방산이 풍부하여 상처치유 및 피부보습에 탁월한 밍크오일을 고함량(30%) 함유한 재생크림으로 수분과 영양분을 동시에 잡아줍니다.'
+The price of Dr.JSK 라플러스 광채시카크림 is 65000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 라플러스 리페어 히알루론크림 is Cream.
+The main effects of Dr.JSK 라플러스 리페어 히알루론크림 are Moisture.
+The description of Dr.JSK 라플러스 리페어 히알루론크림 is '대표적인 상처치유 성분인 마데카식애씨드, 병풀추출물과 고분자&저분자 히알루론산을 함유하여 건조하고 자극받은 피부 속에 빠르게 침투, 피부 수분력을 높여줍니다.'
+The price of Dr.JSK 라플러스 리페어 히알루론크림 is 48000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 블루밍 스킨 is Skin.
+The main effects of Dr.JSK 블루밍 스킨 are Moisture.
+The description of Dr.JSK 블루밍 스킨 is '시술 후 극도로 예민해진 피부에 사용가능한 미산성 스킨으로 저분자 판테놀을 함유하여 피부속까지 빠르게 침투, 즉각적으로 진정시키는데 도움을 줍니다.'
+The price of Dr.JSK 블루밍 스킨 is 22000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 블루밍 화이트닝 에센스 is Essence.
+The main effects of Dr.JSK 블루밍 화이트닝 에센스 are Pigmentation.
+The description of Dr.JSK 블루밍 화이트닝 에센스 is '기미치료제 원료인 트라넥사민애씨드와 항산화 작용을 도와주는 글루타치온, 알파리포산 등 최적의 배합으로 멜라닌색소 침착 억제 및 피부 잡티 개선에 탁월합니다.'
+The price of Dr.JSK 블루밍 화이트닝 에센스 is 45000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 블루밍 수딩젤 is Lotion.
+The main effects of Dr.JSK 블루밍 수딩젤 are Moisture, Sebum.
+The description of Dr.JSK 블루밍 수딩젤 is '피부 열노화 방지에 탁월한 30여가지의 자연유래추출물이 함유된 약산성 수딩 젤로 즉각적인 피부 표면 온도 개선 및 보습에 효과적입니다.'
+The price of Dr.JSK 블루밍 수딩젤 is 28000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 물톡스 필링 is Peeling.
+The main effects of Dr.JSK 물톡스 필링 are Pores.
+The description of Dr.JSK 물톡스 필링 is 'AHA, BHA, PHA 등 3대 각질제거 성분을 최적의 밸런스로 함유한 촉촉한 저자극 필링제로 무너진 턴오버 주기를 잡아 매끈한 피부결을 만들어줍니다. '
+The price of Dr.JSK 물톡스 필링 is 65000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 비엘 베리셀 세럼 미스트 is Mist.
+The main effects of Dr.JSK 비엘 베리셀 세럼 미스트 are Wrinkles.
+The description of Dr.JSK 비엘 베리셀 세럼 미스트 is '동결건조한 순수 인체제대혈세포배양액과 코엔자임Q10, 흡수력이 좋은 저분자 펩타이드 성분이 피부 속 에너지를 활성화시켜 탄력있는 피부로 만들어줍니다.'
+The price of Dr.JSK 비엘 베리셀 세럼 미스트 is 58000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 블랙 팩 is Mask Pack.
+The main effects of Dr.JSK 블랙 팩 are Pores, Wrinkles, Pigmentation.
+The description of Dr.JSK 블랙 팩 is '피부 밀착력이 우수한 비장탄(숯)원단이 피부에 축척된 노폐물 흡착 및 모공정화에 도움을 주며, 하이드롤라이즈드콜라겐 성분이 피부 속 보습력을 높여줍니다.'
+The price of Dr.JSK 블랙 팩 is 25000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 블루밍 마일드 선 크림 is Sunblock.
+The main effects of Dr.JSK 블루밍 마일드 선 크림 are Pigmentation.
+The description of Dr.JSK 블루밍 마일드 선 크림 is '유기자차와 무기자차의 장점만 모아 만든 에센스 타입의 혼합자차 선크림으로 12시간 자외선 차단이 가능하며 부드러운 발림성과 끈적임없는 마무리감이 특징입니다.'
+The price of Dr.JSK 블루밍 마일드 선 크림 is 38000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 바이블레미쉬 버블 바 is Soap.
+The main effects of Dr.JSK 바이블레미쉬 버블 바 are Pigmentation, Keratin.
+The description of Dr.JSK 바이블레미쉬 버블 바 is '순도99.9%의 유황성분이 함유되어 피부 각질제거, 살균효과 및 모낭염 완화에 도움을 주며 세안 시 비타민C 성분이 피부를 맑게 밝혀주어 버블 팩처럼 활용가능합니다.'
+The price of Dr.JSK 바이블레미쉬 버블 바 is 13000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics Dr.JSK 블루밍 마일드 수딩 겔 폼 is Cleansing.
+The main effects of Dr.JSK 블루밍 마일드 수딩 겔 폼 are Porphyrin, Keratin.
+The description of Dr.JSK 블루밍 마일드 수딩 겔 폼 is '민감하고 예민한 피부에 특화된 약산성 저자극 겔 폼으로 자체 특허추출물과 항산화 생약 추출물을 함유하여 항염효과와 함께 자극없이 촉촉하게 노폐물을 제거합니다. '
+The price of Dr.JSK 블루밍 마일드 수딩 겔 폼 is 38000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 마데카 더마 엘라스틱 퍼밍
+마이크로바이옴 앰플 is Ampoule.
+The main effects of 마데카 더마 엘라스틱 퍼밍
+마이크로바이옴 앰플 are Wrinkles.
+The description of 마데카 더마 엘라스틱 퍼밍
+마이크로바이옴 앰플 is '20대 피부에서 유래한 세계 최초 탄력 마이크로마이욤 유효성분을 1병에 약 771억개 함유하여 피부 안티에이징 및 탄력강화에 특화된 노화 방지 앰플입니다.'
+The price of 마데카 더마 엘라스틱 퍼밍
+마이크로바이옴 앰플 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 마데카 더마 피토 카밍
+마이크로바이옴 앰플 is Ampoule.
+The main effects of 마데카 더마 피토 카밍
+마이크로바이옴 앰플 are Moisture.
+The description of 마데카 더마 피토 카밍
+마이크로바이옴 앰플 is '자연유래 소나무에서 유래한 그린에너지 진정 마이크로바이옴이 홍조 피부, 민감한 피부의 진정 및 장벽 강화 효과로 피부컨디션을 회복시켜주는 진정테라피 앰플입니다.'
+The price of 마데카 더마 피토 카밍
+마이크로바이옴 앰플 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 마데카 더마 비타 브라이트닝
+마이크로바이옴 앰플 is Ampoule.
+The main effects of 마데카 더마 비타 브라이트닝
+마이크로바이옴 앰플 are nan.
+The description of 마데카 더마 비타 브라이트닝
+마이크로바이옴 앰플 is '천연 Mud에서 찾은 브라이트닝 특화 바이옴와 비타바이옴을 함유하여 강력한 항산화 효과와 함께 불균일한 피부톤을 환하게 밝혀 주는 미백 앰플입니다.'
+The price of 마데카 더마 비타 브라이트닝
+마이크로바이옴 앰플 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 마데카 더마 비타 브라이트닝
+마이크로바이옴 앰플 is Cream.
+The main effects of 마데카 더마 비타 브라이트닝
+마이크로바이옴 앰플 are Pigmentation.
+The description of 마데카 더마 비타 브라이트닝
+마이크로바이옴 앰플 is '천연 Mud에서 찾은 브라이트닝 특화 바이옴와 비타바이옴을 함유하여 강력한 항산화 효과와 함께 불균일한 피부톤을 환하게 밝혀 주는 미백 앰플입니다.'
+The price of 마데카 더마 비타 브라이트닝
+마이크로바이옴 앰플 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 경옥진액비누 is Soap.
+The main effects of 경옥진액비누 are Dry Skin, Moisture, Wrinkles.
+The description of 경옥진액비누 is '경옥고는 피부 관리와 개선에 도움이 되는 다양한 효능을 갖고 있습니다. 그 중 일부는 피부 탄력 개선, 주름 완화, 피부 톤 개선, 수분 공급 등입니다. 이러한 효능을 강조하고 고객들에게 효과적인 피부 관리를 제공하는 경옥고 진액비누의 장점을 알리면, 고객들은 제품을 구매하고 경험하고자 할 것입니다.'
+The price of 경옥진액비누 is 24000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 하루하루원더 블랙라이스 히알루로닉 토너 is Toner.
+The main effects of 하루하루원더 블랙라이스 히알루로닉 토너 are Oily Skin, Moisture, Radiance.
+The description of 하루하루원더 블랙라이스 히알루로닉 토너 is '고농축 에센스 타입의 토너로, 피부 결을 정리해 주고 피부를 유연하게 만들어 줍니다.
+또한 즉각적인 수분 공급과 함께 다른 스킨케어 제품의 효과를 더해 줍니다. 만능 오일이라
+불릴 정도로 효과가 있는 천연 아로마 라벤더 오일이 피부에 자극 없이 부드럽게 작용하여
+은은하게 자연의 향을 부여합니다.'
+The price of 하루하루원더 블랙라이스 히알루로닉 토너 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 하루하루원더 블랙라이스 히알루로닉 무향 토너 is Toner.
+The main effects of 하루하루원더 블랙라이스 히알루로닉 무향 토너 are Moisture, Sensitivity, Radiance.
+The description of 하루하루원더 블랙라이스 히알루로닉 무향 토너 is '기존 블랙라이스 히알루로닉 토너의 사용감과 효과는 그대로 유지하면서 토너의 향과
+아로마테라피 효과를 느낄 수 있는 천연 라벤더 에센셜 오일과 향과 제형이 잘 혼합되는 데
+도움을 주는 식물성 에탄올을 제외한 무향 타입의 토너입니다. 천연 오일과 외부 자극에
+민감하신 분들도 안심하고 사용할 수 있는 고농축 에센스 타입으로 수분공급과 보습에
+탁월합니다.'
+The price of 하루하루원더 블랙라이스 히알루로닉 무향 토너 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 보라수딩페이셜 is Mist.
+The main effects of 보라수딩페이셜 are Pores, Wrinkles.
+The description of 보라수딩페이셜 is '보라수딩페이셜 제품은 더마코스메틱류에 속하고 LST 신기술을 기본으로 우리가 먹을수 있을 정도로 안전한 유익균으로 탄생한 신개념 피부 모공 제품 브랜드이며
+지친피부와 모공을 진정및 케어를 해주며 미세 스프레이 타입의 전신에 사용이
+가능하며 비건인증을 받았습니다.'
+The price of 보라수딩페이셜 is 30000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 레스큐 부스트 하이드레이션 시트마스크 27ml * 5매입 is Mask Pack.
+The main effects of 레스큐 부스트 하이드레이션 시트마스크 27ml * 5매입 are Moisture, Wrinkles, Elasticity.
+The description of 레스큐 부스트 하이드레이션 시트마스크 27ml * 5매입 is '수분을 가득 머금은 듯 청량감이 느껴지는 에센스가 피부에 깊은 보습감을
+전달하며 탄력 케어 및 주름 개선에 탁월한 효과를 줌'
+The price of 레스큐 부스트 하이드레이션 시트마스크 27ml * 5매입 is 17500.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 에버라스팅 유스 프리저브 크림 55ml is Cream.
+The main effects of 에버라스팅 유스 프리저브 크림 55ml are Moisture, Wrinkles.
+The description of 에버라스팅 유스 프리저브 크림 55ml is '피부 장벽 손상의 개선을 통해 피부 본연의 건강을 유지하도록 도움을 주는 보습
+장벽 안티에이징 크림'
+The price of 에버라스팅 유스 프리저브 크림 55ml is 45000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 웰스톡스 리셀 is Ampoule.
+The main effects of 웰스톡스 리셀 are Moisture, Wrinkles, Radiance.
+The description of 웰스톡스 리셀 is '웰스톡스 브랜드는 건강한 아름다움을 추구하며 피부과에서 사용
+할 수 있는 기능성 화장품 브랜드이다 일반 . 화장품의 성분보다 효능 및 효과를 보
+장하고 있으며 프리미엄 화장품으로 브랜드 컨셉을 정의하고 있다.'
+The price of 웰스톡스 리셀 is 65000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 하니술 레스모어 MO-A 어드밴스드 앰플 is Ampoule.
+The main effects of 하니술 레스모어 MO-A 어드밴스드 앰플 are Wrinkles.
+The description of 하니술 레스모어 MO-A 어드밴스드 앰플 is '특허받은 활성 성분인 MO-A로 피부를 되살리는 5,000,000ppm 초고농축한방 앰플로 건조하고 노화된 피부를 위한 집중 케어 솔루션입니다.'
+The price of 하니술 레스모어 MO-A 어드밴스드 앰플 is 120000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 하니술 레스모어 노니 토너 플루이드 is Toner.
+The main effects of 하니술 레스모어 노니 토너 플루이드 are Moisture, Sebum.
+The description of 하니술 레스모어 노니 토너 플루이드 is '점성이 있는 제형의 저자극 토너로 피부를 진정시키고 수분을 공급해 줍니다. 자연 유래 성분은 유수분 밸런스를 유지하는데 도움을 줍니다.'
+The price of 하니술 레스모어 노니 토너 플루이드 is 49000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 하니술 레스모어 노니 마일드 크림 is Cream.
+The main effects of 하니술 레스모어 노니 마일드 크림 are Moisture.
+The description of 하니술 레스모어 노니 마일드 크림 is '자연에서 추출한 활성 성분과 노니 열매 추출물이 피부에 수분과 영양을 공급합니다.'
+The price of 하니술 레스모어 노니 마일드 크림 is 58000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 하니술 레스모어 MO-A 데일리 선크림 is Sunblock.
+The main effects of 하니술 레스모어 MO-A 데일리 선크림 are Sensitivity.
+The description of 하니술 레스모어 MO-A 데일리 선크림 is '민감해진 피부를 위한 안전한 재생 선크림입니다. 자외선 차단부터 재생과 진정까지 챙기세요.'
+The price of 하니술 레스모어 MO-A 데일리 선크림 is 38000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 하니술 레스모어 MO-A 인텐스 리페어링 마스크 is Mask Pack.
+The main effects of 하니술 레스모어 MO-A 인텐스 리페어링 마스크 are Dry Skin, Moisture, Wrinkles, Radiance.
+The description of 하니술 레스모어 MO-A 인텐스 리페어링 마스크 is '135,000ppm MO-A 추출물이 함유된 한방 복합 추출물이 건조한 피부에 수분을 공급하고 진정시키는 미백/주름개선 시트 마스크.'
+The price of 하니술 레스모어 MO-A 인텐스 리페어링 마스크 is 40000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 더 세럼 클렌저 is Cleansing.
+The main effects of 더 세럼 클렌저 are Oily Skin, Dry Skin, Combination Skin, Pores.
+The description of 더 세럼 클렌저 is '슬로소피의 베스트셀러로 지성,건성 피부타입에 구애받지 않고 사용할 수 있는 3세대 세럼 타입 클렌저입니다. 세럼이 메이크업과 노폐물을 흡착하는 타입으로 유화과정 없이 깔끔하게 세정되며 2차 세안 없이도 워터프루프 메이크업을 포함한 모공 속 노폐물을 94% 제거하는 것을 임상시험을 통해 인증받았습니다'
+The price of 더 세럼 클렌저 is 32000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 뉴티놀 토너 is Toner.
+The main effects of 뉴티놀 토너 are Sensitivity.
+The description of 뉴티놀 토너 is '저자극 식물성 레티놀 '바쿠치올'을 국내 최초로 토너에 적용한 제품입니다. 세안 후 피부에 처음 닿는 토너부터 고기능 성분을 함유하여 더욱 효과적으로 스킨케어를 할 수 있는 제품이며, 2주 사용 시 피부 멜라닌값이 26% 감소한 것을 임상실험을 통해 확인 받은 상품입니다.'
+The price of 뉴티놀 토너 is 38000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 뉴트리 다이브 크림 is Cream.
+The main effects of 뉴트리 다이브 크림 are Moisture.
+The description of 뉴트리 다이브 크림 is '정제수 대신 콩 추출물을 57% 함유한 보습크림으로 스쿠알란, 세라마이드 등 피부 지질 구성에 꼭 필요한 성분을 다량 함유하여 피부 건강하게 가꾸어주는 제품입니다.'
+The price of 뉴트리 다이브 크림 is 42000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 슬로우리 선 세럼 is Sunblock.
+The main effects of 슬로우리 선 세럼 are Radiance.
+The description of 슬로우리 선 세럼 is '슬로소피의 소비자 서포터즈 '슬로우리'와 함께 개발한 소비자 참여형 제품으로 선크림 특유의 백탁현상, 끈적임, 답답함 등을 없앤 것이 특징이며 시카와 나이아신아마이드 함유로 자외선 차단은 물론 피부 진정 및 미백효과를 동시에 확인할 수 있는 제품입니다.'
+The price of 슬로우리 선 세럼 is 38000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 리터뉴 포어슈터 앰플 is Ampoule.
+The main effects of 리터뉴 포어슈터 앰플 are Sebum, Pores, Sensitivity.
+The description of 리터뉴 포어슈터 앰플 is '1. 국내산 감나무 잎으로 모공 깊이 48.45% 개선(임상 완료)
+2. 특허받은 역류성 피지 케어 성분 함유
+3. 저자극 테스트 완료로 민감한 피부도 걱정 없이 사용 가능
+4. 100% 식물 유래 성분, 페타 비건 인증 완료, EWG그린 등급 원료 등 인증을 
+ 통한 안전성 확보
+5. 대표자의 생산 경력 인프라를 바탕으로 원료 및 부자재를 직접 소싱하고 대한민국 최고 
+oem인 한국콜마와 공동 개발
+6. CPNP 인증 완료
+7. 2023 서울 어워드 우수상품 선정(리터뉴 포어슈터 앰플)'
+The price of 리터뉴 포어슈터 앰플 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 리터뉴 포어슈터 토너 is Toner.
+The main effects of 리터뉴 포어슈터 토너 are Sebum, Pores, Sensitivity.
+The description of 리터뉴 포어슈터 토너 is '1. 국내산 감나무 잎으로 모공 깊이 48.45% 개선(임상 완료)
+2. 특허받은 역류성 피지 케어 성분 함유
+3. 저자극 테스트 완료로 민감한 피부도 걱정 없이 사용 가능
+4. 100% 식물 유래 성분, 페타 비건 인증 완료, EWG그린 등급 원료 등 인증을 
+ 통한 안전성 확보
+5. 대표자의 생산 경력 인프라를 바탕으로 원료 및 부자재를 직접 소싱하고 대한민국 최고 
+oem인 한국콜마와 공동 개발
+6. CPNP 인증 완료
+7. 2023 서울 어워드 우수상품 선정(리터뉴 포어슈터 앰플)'
+The price of 리터뉴 포어슈터 토너 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 셀러버 아르간 오일 헤어 에센스 is Hair Oil.
+The main effects of 셀러버 아르간 오일 헤어 에센스 are Keratin.
+The description of 셀러버 아르간 오일 헤어 에센스 is '셀러버는 '향기로 물들이는 특별한 시간'을 모토로 세상에 숨어있는 여러가지 향기를 전달하기 위해 만들어진 브랜드입니다.'
+The price of 셀러버 아르간 오일 헤어 에센스 is 12900.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 시카 쉐이빙 젤 2.3 is Gel.
+The main effects of 시카 쉐이빙 젤 2.3 are Moisture, Sensitivity.
+The description of 시카 쉐이빙 젤 2.3 is '20가지 유해 성분을 모두 제거하고, 진정성분을 가득 담아 면도에 자극받은 피부
+를 진정시키는데 최적화 되어있는 제품입니다. 거품만 풍성한 폼과 달리 빈틈없이 
+도포되고 수염과 피부에 확실히 밀착합니다. 꼼꼼하게 피부를 보호하고 수분을 공
+급해서 수염을 촉촉하고 부드럽게 합니다. 살짝만 밀어도 훨씬 깔끔하게 면도할 수 
+있습니다. '
+The price of 시카 쉐이빙 젤 2.3 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 시카 애프터쉐이브 로션 is Lotion.
+The main effects of 시카 애프터쉐이브 로션 are Moisture.
+The description of 시카 애프터쉐이브 로션 is '마데카소사이드, 시카, 판테놀 등 면도 자극 케어에 특화된 성분을 가득 넣었습니
+다. 충분하게 공급하면서도 번들거리고 끈적이지 않아 하루 종일 산뜻합니다.'
+The price of 시카 애프터쉐이브 로션 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 시카 애프터쉐이브 토너 스프레이 is Toner.
+The main effects of 시카 애프터쉐이브 토너 스프레이 are Very Oily Skin, Moisture, Sebum.
+The description of 시카 애프터쉐이브 토너 스프레이 is '면도 자극으로 붉어지고 달아오른 피부에 시원한 민트향과 함께 즉각적인 쿨링감
+을 선사하여 피부가 건조해지는 것을 예방하고 확실하게 진정 작용을 합니다. 고운 
+입자 형태로 분사되어 수분을 고르게 전달하고 천연 시카와 호호바씨오일 성분이 
+수분 증발을 차단하여 촉촉함을 유지시켜 줍니다. 수분 장벽이 피지분비를 케어하
+여 면도 부위 피부에 도움이 됩니다.'
+The price of 시카 애프터쉐이브 토너 스프레이 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 하얀눈광채 발효 크림 is Cream.
+The main effects of 하얀눈광채 발효 크림 are Radiance.
+The description of 하얀눈광채 발효 크림 is '‘넬라’브랜드는 가수 사라브라이트만이 부른 ‘넬라판타지아’에서 따온 이름입니다.이탈리아 語로 ‘환상속으로’의미로 여성들이 아름다워 지고자하는 바램을 이루어주자는 의미를 담고 있습니다. 서브 브랜드 ‘하얀눈’은 소비자들이 근본적으로 바라는 ‘하얀 피부’를 충족시키는 제품들이 라인업 되어 있습니다.'
+The price of 하얀눈광채 발효 크림 is 20000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 넬라 허니원 스네일 울트라 모이스처 크림 is Cream.
+The main effects of 넬라 허니원 스네일 울트라 모이스처 크림 are Moisture.
+The description of 넬라 허니원 스네일 울트라 모이스처 크림 is '‘넬라’브랜드는 가수 사라브라이트만이 부른 ‘넬라판타지아’에서 따온 이름입니다.이탈리아 語로 ‘환상속으로’의미로 여성들이 아름다워 지고자하는 바램을 이루어주자는 의미를 담고 있습니다. 서브 브랜드 ‘하얀눈’은 소비자들이 근본적으로 바라는 ‘하얀 피부’를 충족시키는 제품들이 라인업 되어 있습니다. 서브 브랜드 ‘허니원스네일’은 소비자들의 근본적인 욕구인 촉촉한 피부를 갖고자하는 니즈를 충족시키고자 ‘허니(꿀)과 스네일(달팽이) 환상적인 조합으로 넘버 1의 보습 제품 브랜드가 되겠다는 의지를 담고 있습니다.'
+The price of 넬라 허니원 스네일 울트라 모이스처 크림 is 13000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 라디셀 악어오일 하이드로겔 마스크팩 is Mask Pack.
+The main effects of 라디셀 악어오일 하이드로겔 마스크팩 are Moisture.
+The description of 라디셀 악어오일 하이드로겔 마스크팩 is '즉각적인 피부진정, 수분충전, 쿨링효과'
+The price of 라디셀 악어오일 하이드로겔 마스크팩 is 25000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 라디셀 악어오일 크림 is Cream.
+The main effects of 라디셀 악어오일 크림 are Dry Skin, Moisture.
+The description of 라디셀 악어오일 크림 is '강력한 보습, 탄력, 영양효과, 악건성, 속건성 필수아이템'
+The price of 라디셀 악어오일 크림 is 57000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 라디셀 화이트닝 톤업크림 is Cream.
+The main effects of 라디셀 화이트닝 톤업크림 are Wrinkles, Sensitivity, Radiance.
+The description of 라디셀 화이트닝 톤업크림 is '초밀착 저자극 미백 톤업크림. 미백, 주름개선, 자외선차단 3중 기능'
+The price of 라디셀 화이트닝 톤업크림 is 28000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics AQUA COIIAGEN RADIANCE CLEANSING FORM is Cleansing.
+The main effects of AQUA COIIAGEN RADIANCE CLEANSING FORM are Moisture, Sensitivity, Radiance.
+The description of AQUA COIIAGEN RADIANCE CLEANSING FORM is '하이들롤라이즈드 콜라겐 성분이 모공속으로 들어가 자극없이 노폐물을 끌고올라오고 그 자리에 수분을 채워주는 형태의 클렌징폼입니다. 전성분 그린등급에 ph5.5 약산성이어서 계면활성제에 예민하게반응하는 분들도 쓸수있으며 클렌징 후 극건조해지는 현상이 없습니다. 기초케어의 시작이기에 클렌징임에도 성분적으로 응축시켜 만들었습니다.세안후에 마스크팩 한 듯한 효과로 관리 효과를 볼 수 있습니다.'
+The price of AQUA COIIAGEN RADIANCE CLEANSING FORM is 35000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics RADIANCE DAILY BOOSTER is Serum.
+The main effects of RADIANCE DAILY BOOSTER are Oily Skin, Moisture, Redness.
+The description of RADIANCE DAILY BOOSTER is '세럼 라인중 백프로 천연 유래성분의 오일 백프로 배합이며 방부제또한 토코페롤이며 
+실리콘 화학성분이 들어가있지 않습니다. 끈적이지 않고 입자를 가볍게 하여 흡수율을 높여지성분들도 쓸수 있게 하였으며 항염트러 홍조완화에효과적이며 보습리프팅에효과적입니다'
+The price of RADIANCE DAILY BOOSTER is 53000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics UV PROOF RADIANCE BLOOM is Sunblock.
+The main effects of UV PROOF RADIANCE BLOOM are Moisture, Radiance.
+The description of UV PROOF RADIANCE BLOOM is '높은 자외선차단률 SPF50+ PA++++이며 수분이탈을 방지하여 장시간 야외활동시 수분이 날아가는 것을 막아주며 톤업기능이 있어 썬비비의 역할을 합니다. 미세펄이 들어가있어 어느각도에서나 입체적볼륨감연출합니다.'
+The price of UV PROOF RADIANCE BLOOM is 26000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 트러블레스 클리어 젤 크림 is Cream.
+The main effects of 트러블레스 클리어 젤 크림 are Dry Skin, Sebum, Pigmentation.
+The description of 트러블레스 클리어 젤 크림 is '고민케어에효과적인티트리4-터피네올을고함량(10,000ppm) 함유한젤제형으로
+끈적임없이흡수될뿐만아니라,수분보호막을형성해피부고민을빠르게
+진정시켜줍니다.'
+The price of 트러블레스 클리어 젤 크림 is nan won. 
+
+            
+The type of Choice-Cosmetics' cosmetics THE GOGUMA 더고구마 마스크팩 is Mask Pack.
+The main effects of THE GOGUMA 더고구마 마스크팩 are Moisture.
+The description of THE GOGUMA 더고구마 마스크팩 is '고구마의 전분을 활용하여 수분감을 제공하고 고구마의 카로티노이드, 안토시아닌, 베타카로틴을 주재료로 하여 노화방지 및 보습효과에 도움을 준다.'
+The price of THE GOGUMA 더고구마 마스크팩 is 5000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics THE GOGUMA 더고구마 페이스 앤 바디 모이스처 크림 로션 is Lotion.
+The main effects of THE GOGUMA 더고구마 페이스 앤 바디 모이스처 크림 로션 are Pigmentation.
+The description of THE GOGUMA 더고구마 페이스 앤 바디 모이스처 크림 로션 is '고구마의 베카타로틴과 비타민 E, 비타민  등 항산화 물질이 포함되어 있어 노화를 억제하고 피부 트러블을 개선함'
+The price of THE GOGUMA 더고구마 페이스 앤 바디 모이스처 크림 로션 is 12900.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 미라클 클리어 모이스처 베리어 크림 is Cream.
+The main effects of 미라클 클리어 모이스처 베리어 크림 are Moisture.
+The description of 미라클 클리어 모이스처 베리어 크림 is '민감한 피부를 위한 트러블 케어 제품으로 효과적인 기능성 원료들을 이상적인 비율로 배합하여 독하지 않게 진정, 보습, 피부 장벽개선에 탁월한 효과가 장점입니다. '
+The price of 미라클 클리어 모이스처 베리어 크림 is 20900.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 블루 블렌디드 토너 에센스 is Toner.
+The main effects of 블루 블렌디드 토너 에센스 are Wrinkles, Radiance.
+The description of 블루 블렌디드 토너 에센스 is '지친 피부를 생기 있고 말끔하게 케어하고 피부 컨디션을 높여주는 올인원 에센스'
+The price of 블루 블렌디드 토너 에센스 is 55000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 블루 블렌디드 로션 에센스 is Lotion.
+The main effects of 블루 블렌디드 로션 에센스 are Wrinkles, Radiance.
+The description of 블루 블렌디드 로션 에센스 is '지친 피부를 생기 있고 말끔하게 케어하고 피부 컨디션을 높여주는 올인원 에센스'
+The price of 블루 블렌디드 로션 에센스 is 55000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 블루 프리덤 캡슐 클렌징 폼 is Cleansing.
+The main effects of 블루 프리덤 캡슐 클렌징 폼 are Pores, Porphyrin.
+The description of 블루 프리덤 캡슐 클렌징 폼 is '블루 피토 캡슐로 모공 속노폐물과 각질까지 한번에 케어하는 올인원 클렌징 폼'
+The price of 블루 프리덤 캡슐 클렌징 폼 is 25000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 클래식 골프 선크림 is Sunblock.
+The main effects of 클래식 골프 선크림 are Wrinkles, Radiance.
+The description of 클래식 골프 선크림 is '백탁없이 마일드한 사용감의 유기자차 선크림'
+The price of 클래식 골프 선크림 is 30000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 씨 쏘씸플 부스팅 스킨 앰플 네롤리 패드 is Ampoule.
+The main effects of 씨 쏘씸플 부스팅 스킨 앰플 네롤리 패드 are Moisture, Sensitivity.
+The description of 씨 쏘씸플 부스팅 스킨 앰플 네롤리 패드 is '피부의 각질을 가볍게 정돈해주며, 약산성 네롤리 앰플이 피부 진정을 도와주고 촉촉한 보습을 채워주는 프리미엄 비건 앰플패드.'
+The price of 씨 쏘씸플 부스팅 스킨 앰플 네롤리 패드 is 52000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 씨 씨엠 네롤리 블룸 페이셜 크림 is Cream.
+The main effects of 씨 씨엠 네롤리 블룸 페이셜 크림 are Sensitivity, Radiance.
+The description of 씨 씨엠 네롤리 블룸 페이셜 크림 is '네롤리 꽃수로 맑고 화사한 피부 관리를 할 수 있는 고보습 수분 영양 크림으로 타마누 오일 및 세라마이드 성분이 함유되어 피부장벽을 건강하게 케어'
+The price of 씨 씨엠 네롤리 블룸 페이셜 크림 is 62000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 씨 헤이썬 오브 더 선 톤 업 로션 is Sunblock.
+The main effects of 씨 헤이썬 오브 더 선 톤 업 로션 are Moisture, Wrinkles, Sensitivity, Radiance.
+The description of 씨 헤이썬 오브 더 선 톤 업 로션 is '벨기에 온천수와 보습 추출물이 함유되어 피부에 충분히 보습감을 부여해주면서 자외선으로부터 피부를 보호해주는 가볍고 촉촉한 톤업 선로션'
+The price of 씨 헤이썬 오브 더 선 톤 업 로션 is 25000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 니어랩 오크캐스트 블렌디드 에센스 is Essence.
+The main effects of 니어랩 오크캐스트 블렌디드 에센스 are Moisture.
+The description of 니어랩 오크캐스트 블렌디드 에센스 is '오크 캐스크 블렌딩 에센스의 주성분인 베타글루칸이 피부 진정, 염증완화, 항산화, 보습 효과를 주어 면도 등으로 끊임없이 자극받는 남성들의 피부를 진정 및 보호해주는 역할을 합니다.'
+The price of 니어랩 오크캐스트 블렌디드 에센스 is 32000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아쿠아-피토플렉스 크림인토너 is Toner.
+The main effects of 아쿠아-피토플렉스 크림인토너 are Moisture, Sensitivity.
+The description of 아쿠아-피토플렉스 크림인토너 is '크림 한통의 보습력+가벼운 토너의 보습력
+안심하고 쓸 수 있는 좋은성분 저자극 9 free 비건 formula
+한번만 발라도 하루 종일 촉촉하니까!'
+The price of 아쿠아-피토플렉스 크림인토너 is 28000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아쿠아-피토플렉스 크림인젤 is Gel.
+The main effects of 아쿠아-피토플렉스 크림인젤 are Moisture, Sensitivity.
+The description of 아쿠아-피토플렉스 크림인젤 is '크림 한통의 보습력+가벼운 토너의 보습력
+안심하고 쓸 수 있는 좋은성분 저자극 9 free 비건 formula
+타사 수딩젤 대비 2배 더 강력한 보습력'
+The price of 아쿠아-피토플렉스 크림인젤 is 7900.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아쿠아-피토플렉스 세라 크림 is Cream.
+The main effects of 아쿠아-피토플렉스 세라 크림 are Wrinkles, Sensitivity, Radiance.
+The description of 아쿠아-피토플렉스 세라 크림 is '세피지가 듬뿍, 내 피부와 가장 유사한 성분 가득
+안심하고 쓸 수 있는 좋은성분 저자극 9 free 비건 formula
+세라 크림만의 특별한 4가지 효능 성분'
+The price of 아쿠아-피토플렉스 세라 크림 is 49000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 모이스트터치 선밀크 SPF50 PA+++ is Sunblock.
+The main effects of 모이스트터치 선밀크 SPF50 PA+++ are Moisture.
+The description of 모이스트터치 선밀크 SPF50 PA+++ is '강력한 자외선 철벽차단+뽀송한 마무리감
+진정과 회복을 돕는 피부 장벽 케어
+끈적임 없이 부드러운 발림성'
+The price of 모이스트터치 선밀크 SPF50 PA+++ is 17900.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 라이트터치 선스틱 SPF50 PA++++ is Sunblock.
+The main effects of 라이트터치 선스틱 SPF50 PA++++ are Sebum.
+The description of 라이트터치 선스틱 SPF50 PA++++ is '강력한 자외선 철벽차단+뽀송한 마무리감
+피지흡수, 유분 컨트롤 탁월한 효과
+바른건지 헷갈릴 정도로 부드러운 발림성'
+The price of 라이트터치 선스틱 SPF50 PA++++ is 15500.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 차옴 오리엔탈 비건 퍼스트 에센스 is Essence.
+The main effects of 차옴 오리엔탈 비건 퍼스트 에센스 are Moisture.
+The description of 차옴 오리엔탈 비건 퍼스트 에센스 is '스킨케어 첫 단계에서 피부 결을 정돈하고 다음 단계의 제품 흡수 효과를 상승시켜 줍니다'
+The price of 차옴 오리엔탈 비건 퍼스트 에센스 is 36000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 차옴 밸런싱 더마클레라 액티브 세럼 is Serum.
+The main effects of 차옴 밸런싱 더마클레라 액티브 세럼 are Keratin.
+The description of 차옴 밸런싱 더마클레라 액티브 세럼 is '근본적인 피부 코어를 잡아주는 30가지 단백질 관련 성분과 피부 에너지를 강화하는 더마클레라™를 담아내어 타고난 듯 고급스러운 피부로 가꾸어 주는 세럼입니다.'
+The price of 차옴 밸런싱 더마클레라 액티브 세럼 is 40000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 차옴 노블베리 컨센트레이트 폼 클렌저 is Cleansing.
+The main effects of 차옴 노블베리 컨센트레이트 폼 클렌저 are Porphyrin.
+The description of 차옴 노블베리 컨센트레이트 폼 클렌저 is '부드러운 앰플 제형의 클렌저가 노폐물이 쌓인 피부를 부드럽게 씻어주며 자극 없이 촉촉하고 깨끗한 피부로 가꾸어줍니다'
+The price of 차옴 노블베리 컨센트레이트 폼 클렌저 is 28000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 메디타민 스노우 글로우 is Mask Pack.
+The main effects of 메디타민 스노우 글로우 are Moisture, Radiance.
+The description of 메디타민 스노우 글로우 is '미백 및 보습을 위한 프리미엄 시트마스크'
+The price of 메디타민 스노우 글로우 is 16500.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아임낫어베이비 고트밀크 키즈 페이셜 클렌저 is Cleansing.
+The main effects of 아임낫어베이비 고트밀크 키즈 페이셜 클렌저 are Porphyrin, Sensitivity.
+The description of 아임낫어베이비 고트밀크 키즈 페이셜 클렌저 is '사용이 쉬운 버블 폼 클렌져 타입의 저자극 어린이 데일리 세안제'
+The price of 아임낫어베이비 고트밀크 키즈 페이셜 클렌저 is 18000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 메디타민 내추럴 선커버 파운데이션-프리 is Sunblock.
+The main effects of 메디타민 내추럴 선커버 파운데이션-프리 are Moisture, Wrinkles.
+The description of 메디타민 내추럴 선커버 파운데이션-프리 is '  - 파운데이션이 필요없는 선스크린:　간편하게 자연스러운 피부톤을 연출과 함께 Tone-Up
+  - SPF50+ / PA++++으로 파괴된 오존층 및 강렬한 자외선으로부터의 피부 보호
+  - 보습, 항산화, 손상된 피부개선, 주름개선, 부드러운 발링성으로 이질감 Zero 수렴
+  - 한 듯 안 한 듯, 꾸안꾸의 Last-Step, BB크림 대신 가벼운 느낌으로 사용'
+The price of 메디타민 내추럴 선커버 파운데이션-프리 is 35000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 글로우 세라 모이스처 페이셜 로션 is Lotion.
+The main effects of 글로우 세라 모이스처 페이셜 로션 are Moisture.
+The description of 글로우 세라 모이스처 페이셜 로션 is '7가지 식물성 수분, 진정성분(쌀, 자몽, 연꽃, 모란뿌리, 황금, 편백수, 포도, 인삼, 녹차)
+피부 장벽을 위한 로션,세라마이드 10000ppm+판테놀+히알루론산'
+The price of 글로우 세라 모이스처 페이셜 로션 is 23000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 비비드온 리벌스온 토너 is Toner.
+The main effects of 비비드온 리벌스온 토너 are Sensitivity.
+The description of 비비드온 리벌스온 토너 is '자연유래 성분으로 피부 본연의 힘을 길러주는 비비드온 스킨케어 라인의 핵심 아이템인 비비드온 리벌스온 토너는 정제수가 없는 갈락토미메스 진정 토너로, 토너팩 이용 시 피부 진정에 더욱 효과적일 뿐만 아니라 외부 유해환경에 의해 거칠고 연약해진 피부에 영양을 공급합니다.'
+The price of 비비드온 리벌스온 토너 is 32000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 비비드온 블링 에센스 톤업크림 is Cream.
+The main effects of 비비드온 블링 에센스 톤업크림 are Wrinkles, Radiance.
+The description of 비비드온 블링 에센스 톤업크림 is '비비드온 블링 에센스 톤업크림은 바르는 즉시 피부 톤업을 느낄 수 있으며, 제품 하나로 (1)주름/미백 크림, (2)선크림, (3)메이크업베이스 세가지 제품을 커버할 수 있습니다.'
+The price of 비비드온 블링 에센스 톤업크림 is 29000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아이유닉 카렌듈라 클렌징오일 is Cleansing.
+The main effects of 아이유닉 카렌듈라 클렌징오일 are Moisture, Wrinkles, Radiance.
+The description of 아이유닉 카렌듈라 클렌징오일 is '아이유닉은 피부 타입과 고민에 맞는 다양한 제품라인을 제공하고 있습니다. 수분 공급, 진정, 미백, 주름 개선 등의 다양한 피부 관리 기능을 갖추고 있어 피부 상태에 따라 선택할 수 있습니다.'
+The price of 아이유닉 카렌듈라 클렌징오일 is 26400.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아이유닉 티트리 릴리츠 토너 is Toner.
+The main effects of 아이유닉 티트리 릴리츠 토너 are Moisture, Wrinkles, Radiance.
+The description of 아이유닉 티트리 릴리츠 토너 is '아이유닉은 피부 타입과 고민에 맞는 다양한 제품라인을 제공하고 있습니다. 수분 공급, 진정, 미백, 주름 개선 등의 다양한 피부 관리 기능을 갖추고 있어 피부 상태에 따라 선택할 수 있습니다.'
+The price of 아이유닉 티트리 릴리츠 토너 is 25200.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아이유닉 티트리 리리프 세럼 is Serum.
+The main effects of 아이유닉 티트리 리리프 세럼 are Moisture, Wrinkles, Radiance.
+The description of 아이유닉 티트리 리리프 세럼 is '아이유닉은 피부 타입과 고민에 맞는 다양한 제품라인을 제공하고 있습니다. 수분 공급, 진정, 미백, 주름 개선 등의 다양한 피부 관리 기능을 갖추고 있어 피부 상태에 따라 선택할 수 있습니다.'
+The price of 아이유닉 티트리 리리프 세럼 is 24000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아이유닉 센텔라 카밍 젤 크림 is Cream.
+The main effects of 아이유닉 센텔라 카밍 젤 크림 are Moisture, Wrinkles, Radiance.
+The description of 아이유닉 센텔라 카밍 젤 크림 is '아이유닉은 피부 타입과 고민에 맞는 다양한 제품라인을 제공하고 있습니다. 수분 공급, 진정, 미백, 주름 개선 등의 다양한 피부 관리 기능을 갖추고 있어 피부 상태에 따라 선택할 수 있습니다.'
+The price of 아이유닉 센텔라 카밍 젤 크림 is 19200.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아이유닉 센텔라 에이씨 스팟 크림 is Cream.
+The main effects of 아이유닉 센텔라 에이씨 스팟 크림 are Moisture, Wrinkles, Radiance.
+The description of 아이유닉 센텔라 에이씨 스팟 크림 is '아이유닉은 피부 타입과 고민에 맞는 다양한 제품라인을 제공하고 있습니다. 수분 공급, 진정, 미백, 주름 개선 등의 다양한 피부 관리 기능을 갖추고 있어 피부 상태에 따라 선택할 수 있습니다.'
+The price of 아이유닉 센텔라 에이씨 스팟 크림 is 19200.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아이유닉 센텔라 카밍 데일리 선스크린 is Sunblock.
+The main effects of 아이유닉 센텔라 카밍 데일리 선스크린 are Moisture, Wrinkles, Radiance.
+The description of 아이유닉 센텔라 카밍 데일리 선스크린 is '아이유닉은 피부 타입과 고민에 맞는 다양한 제품라인을 제공하고 있습니다. 수분 공급, 진정, 미백, 주름 개선 등의 다양한 피부 관리 기능을 갖추고 있어 피부 상태에 따라 선택할 수 있습니다.'
+The price of 아이유닉 센텔라 카밍 데일리 선스크린 is 19200.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 인텐시브 리커버리 토너 is Toner.
+The main effects of 인텐시브 리커버리 토너 are Moisture, Pores, Sensitivity, Keratin.
+The description of 인텐시브 리커버리 토너 is '예민한 피부를 위한 수분, 진정 집중케어 EWG 그린등급의 성분으로 믿을 수 있는
+안전한 성분만 담았습니다. 호두추출물 성분이 들어가 있어 제품 고유의 특유색을 띄고있으며, 호두추출물 자체의 탄닌성분이 가진 모공케어 기능과 호두의 단백질, 미네랄, 각종 비타민 성분이 지친 피부에 생기를 더해줍니다.'
+The price of 인텐시브 리커버리 토너 is 27000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 인텐시브 리커버리 세럼 is Serum.
+The main effects of 인텐시브 리커버리 세럼 are Moisture, Sensitivity.
+The description of 인텐시브 리커버리 세럼 is '에민한 피부를 위한 수분, 보습, 진정 집중케어. 정제수 대신 호두추출물이 65%이 상 함유
+되어 피부에 생기름 더해주며 하루종일 촉촉한 피부를 유지할 수 있습니다. 저자극 인증받았습니다.'
+The price of 인텐시브 리커버리 세럼 is 34000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 인텐시브 리커버리 크림 is Cream.
+The main effects of 인텐시브 리커버리 크림 are Moisture.
+The description of 인텐시브 리커버리 크림 is '정제수 대신 병풀추출물이 64%이 상 함유되어 피부의 유수분 발란스를 좋게 해주어 보다 맑고 건강한 피부관리에 도움이됩니다. 병풀추출물은 피부타입과 상관없이 유행과 상관없이 늘 사랑받는 성분입니다.'
+The price of 인텐시브 리커버리 크림 is 31000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics MTY 비타민 화이트닝 앰플 is Ampoule.
+The main effects of MTY 비타민 화이트닝 앰플 are Radiance.
+The description of MTY 비타민 화이트닝 앰플 is '정세수 대신 비타민나무열메 추출물을 넣어 보다 피부를 밝고, 생기있게 해줍니다. 화이트닝은 수많은 나라의 여성들에게 꼭 필요한 필수템으로 계절 상관없이 투명한 피부로 가꾸기 위해 꾸준히 사랑받는 라인입니다. 미백기능성 인증받았습니다.'
+The price of MTY 비타민 화이트닝 앰플 is 32000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 신기한 마사지 젤 is Gel.
+The main effects of 신기한 마사지 젤 are Pores, Porphyrin.
+The description of 신기한 마사지 젤 is '체내의 노폐물을 모공을 통해 배출시키는 기능의 제품입니다. 오로지 모공속의 노폐물을 빼내주는 신기한 제품입니다.'
+The price of 신기한 마사지 젤 is 165000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 감사한 마사지 아이-세럼 is Serum.
+The main effects of 감사한 마사지 아이-세럼 are Moisture, Wrinkles, Radiance.
+The description of 감사한 마사지 아이-세럼 is '피부의 잡티 잔주름 모공축소 미백 등등의 다양한 기능을 발휘하는 제품으로 미백과 주름개선의 이중 기능성 화장품입니다. 오로지 얼굴피부가 밝고 곱도록 예뻐지는 감사한 마음이 드는 제품입니다.'
+The price of 감사한 마사지 아이-세럼 is 299000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아임낫어베이비 고트밀크 키즈 바디워시 is Body Wash.
+The main effects of 아임낫어베이비 고트밀크 키즈 바디워시 are Moisture.
+The description of 아임낫어베이비 고트밀크 키즈 바디워시 is '샤워 후에도 당김없이 촉촉하게 헹굼이 쉬운 어린이 전용 고보습 바디워시'
+The price of 아임낫어베이비 고트밀크 키즈 바디워시 is 26000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아임낫어베이비 고트밀크 키즈 페이스&바디로션 is Body Lotion.
+The main effects of 아임낫어베이비 고트밀크 키즈 페이스&바디로션 are Dry Skin, Moisture.
+The description of 아임낫어베이비 고트밀크 키즈 페이스&바디로션 is '건조하고 민감해지기 쉬운 성장기 어린이들을 위한 고보습 로션'
+The price of 아임낫어베이비 고트밀크 키즈 페이스&바디로션 is 29000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 엑소 에이지 햄프 미스트 세럼(EXO-AG HEMP MIST SERUM) is Serum.
+The main effects of 엑소 에이지 햄프 미스트 세럼(EXO-AG HEMP MIST SERUM) are Wrinkles, Radiance.
+The description of 엑소 에이지 햄프 미스트 세럼(EXO-AG HEMP MIST SERUM) is '항산화 효과 및 미백, 주름 개선 기능을 가진 엑소좀 햄프시드 함유(60,000ppm) 오일 미스트'
+The price of 엑소 에이지 햄프 미스트 세럼(EXO-AG HEMP MIST SERUM) is 53000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 엑소 에이지 스피큘 앰플(EXO-AG SPICULE AMPOULE) is Ampoule.
+The main effects of 엑소 에이지 스피큘 앰플(EXO-AG SPICULE AMPOULE) are Wrinkles, Radiance.
+The description of 엑소 에이지 스피큘 앰플(EXO-AG SPICULE AMPOULE) is '강력한 항산화 작용 및 미백 또는 주름 개선 효과를 지닌 바이오 마이크로 니들 앰플'
+The price of 엑소 에이지 스피큘 앰플(EXO-AG SPICULE AMPOULE) is 55000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 심플리오 리프레싱 스칼프 샴푸 is Shampoo.
+The main effects of 심플리오 리프레싱 스칼프 샴푸 are Oily Scalp, Scalp Sensitivity, Scalp Keratin.
+The description of 심플리오 리프레싱 스칼프 샴푸 is '두피의 각종 문제를 빠르게 개선하고,
+더 건강한 두피 환경을 만들어주는 두피케어 샴푸입니다. 
+97% 자연유래 성분으로 자극은 최소화한 비건인증 제품입니다.'
+The price of 심플리오 리프레싱 스칼프 샴푸 is 17000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 심플리오 비오틴 탈모케어 샴푸 is Shampoo.
+The main effects of 심플리오 비오틴 탈모케어 샴푸 are Hair Loss, Scalp Sensitivity, Scalp Keratin.
+The description of 심플리오 비오틴 탈모케어 샴푸 is '모발 필수 성분인 비오틴을 듬뿍 담아 만든 탈모케어 샴푸입니다. 
+탈모 증상 완화 뿐만 아니라 두피 보호와 진정 효과까지 생각한 
+저자극 샴푸로, 비건 인증을 받은 제품입니다.'
+The price of 심플리오 비오틴 탈모케어 샴푸 is 25000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아미노 EX 샴푸 is Shampoo.
+The main effects of 아미노 EX 샴푸 are Hair Density, Hair Loss, Hair Density, Scalp Keratin.
+The description of 아미노 EX 샴푸 is '자연의 생명력을 가득 담아 제대로 된 두피 탈모관리 제품으로 3중 토탈케어 (두피.모발.탈모)
+ 에 도움이 되며 특수공법 천연 바이오타이트로 비타민C 미네랄 칼슘 마그네슘 유항 및 성질별로
+ 다르게 추출한 자연유래성분 26가지 추출물을 사용하여 두피 모발 탈모를 개선해줍니다.'
+The price of 아미노 EX 샴푸 is 59800.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 셀러버 아르간 오일 헤어 에센스 is Hair Oil.
+The main effects of 셀러버 아르간 오일 헤어 에센스 are Normal Scalp, Dry Scalp, Scalp Keratin.
+The description of 셀러버 아르간 오일 헤어 에센스 is '셀러버는 '향기로 물들이는 특별한 시간'을 모토로 세상에 숨어있는 여러가지 향기를 전달하기 위해 만들어진 브랜드입니다.'
+The price of 셀러버 아르간 오일 헤어 에센스 is 12900.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아임낫어베이비 고트밀크 키즈 샴푸 is Shampoo.
+The main effects of 아임낫어베이비 고트밀크 키즈 샴푸 are Normal Scalp, Dry Scalp, Hair Density.
+The description of 아임낫어베이비 고트밀크 키즈 샴푸 is '정수리 냄새, 건조함, 모발 끊어짐 등 성장기 어린이 두피와 모발 고민을 해결해주는 어린이 샴푸'
+The price of 아임낫어베이비 고트밀크 키즈 샴푸 is 26000.0 won. 
+
+            
+The type of Choice-Cosmetics' cosmetics 아임낫어베이비 고트밀크 키즈 헤어 컨디셔너 is Hair Conditioner.
+The main effects of 아임낫어베이비 고트밀크 키즈 헤어 컨디셔너 are Normal Scalp, Hair Density, Hair Density, Scalp Sensitivity.
+The description of 아임낫어베이비 고트밀크 키즈 헤어 컨디셔너 is '가늘고 끊어지기 쉬운 어린이 모발을 위한 무실리콘 천연유래 헤어 컨디셔너'
+The price of 아임낫어베이비 고트밀크 키즈 헤어 컨디셔너 is 34000.0 won. 
+
+            
